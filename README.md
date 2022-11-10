@@ -17,9 +17,10 @@ Please contact 7676856815 for any freelance work on creating websites, apps, aut
 ## 🚩 Demo In Laptop Screen
 
 https://user-images.githubusercontent.com/108281031/201117124-8fa14f60-12e4-4df8-9f55-71e782655551.mp4
-0:08 - Showing You The excel input data
-0:19 - Running index.js and the robot creates account, takes a screenshot saves etc...
-1:54 - Showing You output
+
+#### 0:08 - Showing You The excel input data
+#### 0:19 - Running index.js and the robot creates account, takes a screenshot saves etc...
+#### 1:54 - Showing You output
 
 ## Run Locally
 
