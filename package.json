@@ -1,0 +1,17 @@
+{
+  "name": "account-creation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.27.1",
+    "read-excel-file": "^5.5.3",
+    "write-excel-file": "^1.4.15"
+  }
+}
