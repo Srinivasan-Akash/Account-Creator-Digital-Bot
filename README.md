@@ -64,12 +64,12 @@ Run Project
 
 
 ## 🤔 What i have learnt By working on this project
-1. Explored Some automation library like playwright also got to know how to pick good packages from NPM
-
+1. Explored Some automation library like playwright 
+2. Also got to know how to pick good packages from NPM
 
 ## 😌 Honest Time to finish the project
 
-I had took about 1hrs 45min. Did a lot of reserach to implement many features in near future i will be implementing `surf the google for 10s` option in my quiz application !!
+I had took about 1hrs 45min. Development Process went smoothly just took some time to explore playwright
 
 ## 👀 Feedback
 If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
