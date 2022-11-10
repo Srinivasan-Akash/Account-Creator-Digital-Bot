@@ -1,2 +1,2 @@
 # Account-Creator-Digital-Bot
-This is a program which takes an excel sheet containing gmail, name, age etc. It goes to code.org and creates an account and screenshots Later give an output in the form of an excel sheet containing username and passwords. All of this can be visualized
+Automated Digital Bot is a program which take an input in the form of and excel sheet with name data containing email, password, name, age in an order. Later it goes to code.org and creates an account and screen shots the dashboard proving that it is registered. Later give an output in the form of an excel sheet containing username and passwords. And the best part is that all of this can be visualized
