@@ -1,4 +1,6 @@
 # Account-Creator-Digital-Bot (creates account on code.org)
+## Created by Kota Baby & Akash
+
 Automated Digital Bot is a program which take an input in the form of and excel sheet with name data containing email, password, name, age in an order. Later it goes to code.org and creates an account and screen shots the dashboard proving that it is registered. Later give an output in the form of an excel sheet containing username and passwords. And the best part is that all of this can be visualized.
 
 There has been give an excel file please use that format only.
